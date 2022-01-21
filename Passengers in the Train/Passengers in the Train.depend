@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609836674 source:c:\users\crs\desktop\acm\passengers in the train\main.c
+	<stdio.h>
+	<stdlib.h>
+
