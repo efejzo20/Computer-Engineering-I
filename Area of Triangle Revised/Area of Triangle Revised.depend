@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1612279621 source:c:\users\crs\desktop\acm\area of triangle revised\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<limits.h>
+	<float.h>
+

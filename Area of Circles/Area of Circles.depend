@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1616691000 source:c:\users\crs\desktop\acm\area of circles\main.c
+	<stdio.h>
+	<stdlib.h>
+	"areaofCircle.h"
+
+1616690904 c:\users\crs\desktop\acm\area of circles\areaofcircle.h
+

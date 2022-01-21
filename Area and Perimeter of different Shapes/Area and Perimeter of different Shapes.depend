@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610135452 source:c:\users\crs\desktop\acm\area and perimeter of different shapes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

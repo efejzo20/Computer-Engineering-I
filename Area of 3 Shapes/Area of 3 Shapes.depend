@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610206590 source:c:\users\crs\desktop\acm\area of 3 shapes\main.c
+	<stdio.h>
+	<stdlib.h>
+
