@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610205360 source:c:\users\crs\desktop\acm\annual profit\main.c
+	<stdio.h>
+	<stdlib.h>
+
