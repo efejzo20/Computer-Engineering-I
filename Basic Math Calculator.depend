@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609014545 source:c:\users\crs\desktop\acm\basic math calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
