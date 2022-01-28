@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615890123 source:c:\users\crs\desktop\acm\breaking the bunker\main.c
+	<stdio.h>
+	<stdlib.h>
+
