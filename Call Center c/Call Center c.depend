@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611829547 source:c:\users\crs\desktop\acm\call center c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

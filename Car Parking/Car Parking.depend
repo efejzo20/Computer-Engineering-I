@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609328864 source:c:\users\crs\desktop\acm\car parking\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609094623 source:c:\users\crs\desktop\acm\cineplexx\main.c
+	<stdio.h>
+	<stdlib.h>
+
