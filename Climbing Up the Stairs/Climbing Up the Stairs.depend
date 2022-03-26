@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618513189 source:c:\users\crs\desktop\acm\climbing up the stairs\main.c
+	<stdio.h>
+	<stdlib.h>
+

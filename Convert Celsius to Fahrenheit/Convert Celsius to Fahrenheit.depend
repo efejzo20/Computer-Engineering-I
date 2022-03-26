@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609015240 source:c:\users\crs\desktop\acm\convert celsius to fahrenheit\main.c
+	<stdio.h>
+	<stdlib.h>
+

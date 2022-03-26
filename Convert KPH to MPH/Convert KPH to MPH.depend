@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609011227 source:c:\users\crs\desktop\acm\convert kph to mph\main.c
+	<stdio.h>
+	<stdlib.h>
+

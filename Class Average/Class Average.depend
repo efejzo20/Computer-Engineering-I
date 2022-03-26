@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609757759 source:c:\users\crs\desktop\acm\class average\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

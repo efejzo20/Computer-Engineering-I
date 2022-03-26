@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611841667 source:c:\users\crs\desktop\acm\city electric bills\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+
