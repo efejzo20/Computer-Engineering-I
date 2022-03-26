@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609702837 source:c:\users\crs\desktop\acm\divisible by five\main.c
+	<stdio.h>
+	<stdlib.h>
+

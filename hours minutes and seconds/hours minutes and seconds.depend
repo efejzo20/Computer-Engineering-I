@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608759104 source:c:\users\crs\desktop\acm\hours minutes and seconds\main.c
+	<stdio.h>
+	<stdlib.h>
+

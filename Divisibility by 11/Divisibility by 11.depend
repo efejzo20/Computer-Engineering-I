@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610445605 source:c:\users\crs\desktop\acm\divisibility by 11\main.c
+	<stdio.h>
+	<stdlib.h>
+

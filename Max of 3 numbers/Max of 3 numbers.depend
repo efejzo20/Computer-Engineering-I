@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609353679 source:c:\users\crs\desktop\acm\max of 3 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

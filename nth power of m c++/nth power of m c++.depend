@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611827642 source:c:\users\crs\desktop\acm\nth power of m c++\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+

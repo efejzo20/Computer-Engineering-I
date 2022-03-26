@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612866313 source:c:\users\crs\desktop\acm\processing cost\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611685004 source:c:\users\crs\desktop\acm\population bar chart\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

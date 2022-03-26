@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609257532 source:c:\users\crs\desktop\acm\el clasico\main.c
+	<stdio.h>
+	<stdlib.h>
+

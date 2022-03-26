@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609172735 source:c:\users\crs\desktop\acm\translate score into grade\main.c
+	<stdio.h>
+	<stdlib.h>
+

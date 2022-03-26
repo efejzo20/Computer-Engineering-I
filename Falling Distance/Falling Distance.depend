@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609333881 source:c:\users\crs\desktop\acm\falling distance\main.c
+	<stdio.h>
+	<stdlib.h>
+

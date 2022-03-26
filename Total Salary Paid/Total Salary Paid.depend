@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612015621 source:c:\users\crs\desktop\acm\total salary paid\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+

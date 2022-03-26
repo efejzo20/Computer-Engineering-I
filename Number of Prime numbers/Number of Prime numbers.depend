@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616239103 source:c:\users\crs\desktop\acm\number of prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

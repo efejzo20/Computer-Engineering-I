@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616062916 source:c:\users\crs\desktop\acm\number of digits\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

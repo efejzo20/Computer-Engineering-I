@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609755447 source:c:\users\crs\desktop\acm\total invoice amount\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619004301 source:c:\users\crs\desktop\acm\student averages\main.c
+	<stdio.h>
+	<stdlib.h>
+

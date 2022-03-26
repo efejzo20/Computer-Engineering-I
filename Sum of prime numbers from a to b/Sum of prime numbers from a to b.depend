@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616240225 source:c:\users\crs\desktop\acm\sum of prime numbers from a to b\main.c
+	<stdio.h>
+	<stdlib.h>
+

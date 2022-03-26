@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616872854 source:c:\users\crs\desktop\acm\swimming contest\main.c
+	<stdio.h>
+	<string.h>
+

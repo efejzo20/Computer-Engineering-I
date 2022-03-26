@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616949052 source:c:\users\crs\desktop\acm\download percentage\main.c
+	<stdio.h>
+	<stdlib.h>
+

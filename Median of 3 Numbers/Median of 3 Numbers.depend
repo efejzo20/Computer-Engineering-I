@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609535881 source:c:\users\crs\desktop\acm\median of 3 numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

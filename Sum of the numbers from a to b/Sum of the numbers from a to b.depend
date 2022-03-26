@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612098741 source:c:\users\crs\desktop\acm\sum of the numbers from a to b\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+

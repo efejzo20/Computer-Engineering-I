@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612358986 source:c:\users\crs\desktop\acm\the biggest area\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

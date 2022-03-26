@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611046969 source:c:\users\crs\desktop\acm\drawing square from stars1\main.c
+	<stdio.h>
+	<stdlib.h>
+

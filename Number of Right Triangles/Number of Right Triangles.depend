@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610648425 source:c:\users\crs\desktop\acm\number of right triangles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

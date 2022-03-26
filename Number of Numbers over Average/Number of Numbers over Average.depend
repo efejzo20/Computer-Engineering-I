@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616065075 source:c:\users\crs\desktop\acm\number of numbers over average\main.c
+	<stdio.h>
+	<stdlib.h>
+

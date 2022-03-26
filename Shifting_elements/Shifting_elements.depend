@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617269530 source:c:\users\crs\desktop\acm\shifting_elements\main.c
+	<stdio.h>
+	<stdlib.h>
+

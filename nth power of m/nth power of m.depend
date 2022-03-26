@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609834919 source:c:\users\crs\desktop\acm\nth power of m\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609351781 source:c:\users\crs\desktop\acm\oshee electric bill\main.c
+	<stdio.h>
+	<stdlib.h>
+

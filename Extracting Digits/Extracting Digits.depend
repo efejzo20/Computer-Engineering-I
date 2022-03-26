@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609175580 source:c:\users\crs\desktop\acm\extracting digits\main.c
+	<stdio.h>
+	<stdlib.h>
+

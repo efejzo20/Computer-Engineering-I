@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612093642 source:c:\users\crs\desktop\acm\pattern with stars\main.c
+	<stdio.h>
+	<stdlib.h>
+

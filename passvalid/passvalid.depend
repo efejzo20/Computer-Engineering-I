@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610794961 source:c:\users\crs\desktop\acm\passvalid\main.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+

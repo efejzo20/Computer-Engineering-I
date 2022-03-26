@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618342048 source:c:\users\crs\desktop\acm\post office\main.c
+	<stdio.h>
+	<stdlib.h>
+

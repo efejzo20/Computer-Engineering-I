@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609519205 source:c:\users\crs\desktop\acm\telephone calls\main.c
+	<stdio.h>
+	<stdlib.h>
+

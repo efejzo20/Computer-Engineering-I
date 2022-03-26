@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609532621 source:c:\users\crs\desktop\acm\paper scissors rock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

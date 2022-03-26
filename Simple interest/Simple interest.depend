@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610205526 source:c:\users\crs\desktop\acm\simple interest\main.c
+	<stdio.h>
+	<stdlib.h>
+

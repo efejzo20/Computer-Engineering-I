@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610475807 source:c:\users\crs\desktop\acm\print office\main.c
+	<stdio.h>
+	<stdlib.h>
+

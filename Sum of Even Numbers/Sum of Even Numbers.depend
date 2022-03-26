@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609339955 source:c:\users\crs\desktop\acm\sum of even numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

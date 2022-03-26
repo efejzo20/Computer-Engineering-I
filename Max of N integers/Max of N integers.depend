@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619085705 source:c:\users\crs\desktop\acm\max of n integers\main.c
+	<stdio.h>
+	<stdlib.h>
+

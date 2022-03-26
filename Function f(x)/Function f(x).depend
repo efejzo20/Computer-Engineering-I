@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609337101 source:c:\users\crs\desktop\acm\function f(x)\main.c
+	<stdio.h>
+	<stdlib.h>
+

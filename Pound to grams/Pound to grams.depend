@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610647182 source:c:\users\crs\desktop\acm\pound to grams\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

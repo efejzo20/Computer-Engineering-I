@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612366856 source:c:\users\crs\desktop\acm\the smallest perimeter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

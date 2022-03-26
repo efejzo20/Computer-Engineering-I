@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617300157 source:c:\users\crs\desktop\acm\get the matrix and find min, max , average and standard deviation.\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

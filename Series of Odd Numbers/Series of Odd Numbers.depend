@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1612097726 source:c:\users\crs\desktop\acm\series of odd numbers\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+

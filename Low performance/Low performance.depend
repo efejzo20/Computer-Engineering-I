@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615892160 source:c:\users\crs\desktop\acm\low performance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

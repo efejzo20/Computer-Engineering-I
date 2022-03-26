@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609329290 source:c:\users\crs\desktop\acm\isosceles triangles\main.c
+	<stdio.h>
+	<stdlib.h>
+

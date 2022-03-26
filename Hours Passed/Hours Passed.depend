@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609358409 source:c:\users\crs\desktop\acm\hours passed\main.c
+	<stdio.h>
+	<stdlib.h>
+

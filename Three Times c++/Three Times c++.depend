@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611747372 source:c:\users\crs\desktop\acm\three times c++\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

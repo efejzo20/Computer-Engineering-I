@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611831590 source:c:\users\crs\desktop\acm\letter grades c++\main.cpp
+	<iostream>
+	<cmath>
+	<fstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609180208 source:c:\users\crs\desktop\acm\even numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

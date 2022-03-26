@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611860434 source:c:\users\crs\desktop\acm\the number of points in a rectangle\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+

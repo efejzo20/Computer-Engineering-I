@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622286117 source:c:\users\crs\desktop\acm\structnode2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

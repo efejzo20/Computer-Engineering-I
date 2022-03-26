@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610443160 source:c:\users\crs\desktop\acm\the student with the highest average 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

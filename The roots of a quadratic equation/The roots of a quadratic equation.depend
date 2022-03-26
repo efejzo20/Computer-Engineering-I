@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609536910 source:c:\users\crs\desktop\acm\the roots of a quadratic equation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616698784 source:c:\users\crs\desktop\acm\the difference between max and min\main.c
+	<stdio.h>
+	<stdlib.h>
+

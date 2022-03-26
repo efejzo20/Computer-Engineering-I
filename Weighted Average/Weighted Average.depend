@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609702417 source:c:\users\crs\desktop\acm\weighted average\main.c
+	<stdio.h>
+	<stdlib.h>
+

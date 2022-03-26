@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618752078 source:c:\users\crs\desktop\acm\sum of the numbers in the given positions\main.c
+	<stdio.h>
+	<stdlib.h>
+

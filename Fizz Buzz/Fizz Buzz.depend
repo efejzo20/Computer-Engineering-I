@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609339312 source:c:\users\crs\desktop\acm\fizz buzz\main.c
+	<stdio.h>
+	<stdlib.h>
+

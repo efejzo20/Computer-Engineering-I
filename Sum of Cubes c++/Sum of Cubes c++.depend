@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611828020 source:c:\users\crs\desktop\acm\sum of cubes c++\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609833969 source:c:\users\crs\desktop\acm\sum of odd numbers from a to b\main.c
+	<stdio.h>
+	<stdlib.h>
+
